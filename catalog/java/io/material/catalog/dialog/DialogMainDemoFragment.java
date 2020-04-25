@@ -30,8 +30,8 @@ import android.view.ViewGroup;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
-import com.google.android.material.button.MaterialButton;
-import com.google.android.material.dialog.MaterialAlertDialogBuilder;
+import com.google.android.material_m.button.MaterialButton;
+import com.google.android.material_m.dialog.MaterialAlertDialogBuilder;
 import io.material.catalog.feature.DemoFragment;
 
 /** A fragment that displays the main Dialog demos for the Catalog app. */

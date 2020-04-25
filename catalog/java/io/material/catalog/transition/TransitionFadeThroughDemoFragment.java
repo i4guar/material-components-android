@@ -30,8 +30,8 @@ import android.util.SparseIntArray;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.google.android.material.transition.MaterialFadeThrough;
+import com.google.android.material_m.bottomnavigation.BottomNavigationView;
+import com.google.android.material_m.transition.MaterialFadeThrough;
 import io.material.catalog.feature.DemoFragment;
 
 /** A fragment that displays the Fade Through Transition demo for the Catalog app. */

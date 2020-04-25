@@ -25,7 +25,7 @@
 
   <include layout="@layout/cat_bottomappbar_content"/>
 
-  <com.google.android.material.bottomappbar.BottomAppBar
+  <com.google.android.material_m.bottomappbar.BottomAppBar
       android:id="@+id/bar"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
@@ -34,7 +34,7 @@
       app:navigationContentDescription="@string/cat_bottomappbar_navigation_button_content_description"
       android:fitsSystemWindows="true"/>
 
-  <com.google.android.material.floatingactionbutton.FloatingActionButton
+  <com.google.android.material_m.floatingactionbutton.FloatingActionButton
       android:id="@+id/fab"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
@@ -50,7 +50,7 @@
       app:behavior_hideable="true"
       app:layout_behavior="@string/bottom_sheet_behavior">
 
-    <com.google.android.material.navigation.NavigationView
+    <com.google.android.material_m.navigation.NavigationView
         android:id="@+id/navigation_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

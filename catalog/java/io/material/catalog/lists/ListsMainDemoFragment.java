@@ -29,9 +29,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
-import com.google.android.material.lists.SingleLineItemViewHolder;
-import com.google.android.material.lists.ThreeLineItemViewHolder;
-import com.google.android.material.lists.TwoLineItemViewHolder;
+import com.google.android.material_m.lists.SingleLineItemViewHolder;
+import com.google.android.material_m.lists.ThreeLineItemViewHolder;
+import com.google.android.material_m.lists.TwoLineItemViewHolder;
 import io.material.catalog.feature.DemoFragment;
 
 /** A fragment that displays the main List demos for the Catalog app. */

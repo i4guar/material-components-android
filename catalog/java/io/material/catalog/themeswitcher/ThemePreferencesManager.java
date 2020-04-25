@@ -32,7 +32,7 @@ import android.text.style.ForegroundColorSpan;
 import android.util.SparseIntArray;
 import android.view.MenuItem;
 import android.view.View;
-import com.google.android.material.color.MaterialColors;
+import com.google.android.material_m.color.MaterialColors;
 
 /** Helper that saves the current theme choice for the Catalog, which maps to a night mode. */
 public class ThemePreferencesManager {

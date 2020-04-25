@@ -64,7 +64,7 @@
         android:layout_width="match_parent"
         android:layout_height="700dp"
         android:orientation="vertical">
-      <com.google.android.material.card.MaterialCardView
+      <com.google.android.material_m.card.MaterialCardView
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:layout_margin="@dimen/cat_elevation_padding"
@@ -76,28 +76,28 @@
             android:layout_margin="@dimen/cat_elevation_padding"
             android:gravity="center"
             android:text="@string/cat_elevation_explanation" />
-      </com.google.android.material.card.MaterialCardView>
-      <com.google.android.material.card.MaterialCardView
+      </com.google.android.material_m.card.MaterialCardView>
+      <com.google.android.material_m.card.MaterialCardView
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:layout_margin="@dimen/cat_elevation_padding"
           android:minHeight="@dimen/cat_elevation_min_card_height" />
-      <com.google.android.material.card.MaterialCardView
+      <com.google.android.material_m.card.MaterialCardView
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:layout_margin="@dimen/cat_elevation_padding"
           android:minHeight="@dimen/cat_elevation_min_card_height" />
-      <com.google.android.material.card.MaterialCardView
+      <com.google.android.material_m.card.MaterialCardView
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:layout_margin="@dimen/cat_elevation_padding"
           android:minHeight="@dimen/cat_elevation_min_card_height" />
-      <com.google.android.material.card.MaterialCardView
+      <com.google.android.material_m.card.MaterialCardView
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:layout_margin="@dimen/cat_elevation_padding"
           android:minHeight="@dimen/cat_elevation_min_card_height" />
-      <com.google.android.material.card.MaterialCardView
+      <com.google.android.material_m.card.MaterialCardView
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:layout_margin="@dimen/cat_elevation_padding"

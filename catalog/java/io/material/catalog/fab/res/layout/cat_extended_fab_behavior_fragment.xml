@@ -19,12 +19,12 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-  <com.google.android.material.appbar.AppBarLayout
+  <com.google.android.material_m.appbar.AppBarLayout
       android:id="@+id/app_bar"
       android:layout_width="match_parent"
       android:layout_height="192dp"
       android:fitsSystemWindows="true">
-    <com.google.android.material.appbar.CollapsingToolbarLayout
+    <com.google.android.material_m.appbar.CollapsingToolbarLayout
         style="?attr/catalogToolbarStyle"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -43,8 +43,8 @@
           android:layout_height="?attr/actionBarSize"
           app:layout_collapseMode="pin"
           app:title="Collapsing Title" />
-    </com.google.android.material.appbar.CollapsingToolbarLayout>
-  </com.google.android.material.appbar.AppBarLayout>
+    </com.google.android.material_m.appbar.CollapsingToolbarLayout>
+  </com.google.android.material_m.appbar.AppBarLayout>
 
   <androidx.core.widget.NestedScrollView
       android:layout_width="match_parent"
@@ -54,7 +54,7 @@
     <include layout="@layout/cat_topappbar_filler_text_view" />
   </androidx.core.widget.NestedScrollView>
 
-  <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+  <com.google.android.material_m.floatingactionbutton.ExtendedFloatingActionButton
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:layout_margin="8dp"

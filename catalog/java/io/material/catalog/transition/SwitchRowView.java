@@ -26,7 +26,7 @@ import android.util.AttributeSet;
 import android.view.LayoutInflater;
 import android.widget.FrameLayout;
 import android.widget.TextView;
-import com.google.android.material.switchmaterial.SwitchMaterial;
+import com.google.android.material_m.switchmaterial.SwitchMaterial;
 
 class SwitchRowView extends FrameLayout {
 

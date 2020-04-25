@@ -32,7 +32,7 @@
     android:foreground="?attr/selectableItemBackground"
     android:background="?android:attr/colorBackground">
 
-  <com.google.android.material.imageview.ShapeableImageView
+  <com.google.android.material_m.imageview.ShapeableImageView
       android:id="@+id/album_image"
       android:layout_width="62dp"
       android:layout_height="62dp"

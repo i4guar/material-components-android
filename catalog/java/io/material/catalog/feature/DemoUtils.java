@@ -25,8 +25,8 @@ import android.view.View;
 import android.view.View.OnLayoutChangeListener;
 import android.view.ViewGroup;
 import android.widget.ScrollView;
-import com.google.android.material.internal.ContextUtils;
-import com.google.android.material.snackbar.Snackbar;
+import com.google.android.material_m.internal.ContextUtils;
+import com.google.android.material_m.snackbar.Snackbar;
 import java.util.ArrayList;
 import java.util.List;
 

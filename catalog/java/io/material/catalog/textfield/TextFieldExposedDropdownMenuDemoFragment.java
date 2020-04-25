@@ -27,7 +27,7 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.Button;
-import com.google.android.material.textfield.TextInputLayout;
+import com.google.android.material_m.textfield.TextInputLayout;
 
 /**
  * A fragment that displays the filled text field demos with start and end icons and controls for

@@ -24,10 +24,10 @@ import androidx.annotation.Nullable;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import com.google.android.material.chip.Chip;
-import com.google.android.material.chip.ChipGroup;
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.google.android.material.switchmaterial.SwitchMaterial;
+import com.google.android.material_m.chip.Chip;
+import com.google.android.material_m.chip.ChipGroup;
+import com.google.android.material_m.floatingactionbutton.FloatingActionButton;
+import com.google.android.material_m.switchmaterial.SwitchMaterial;
 import io.material.catalog.feature.DemoFragment;
 
 /** A fragment that displays the ChipGroup demos for the Catalog app. */

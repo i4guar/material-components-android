@@ -32,10 +32,10 @@ import android.widget.Button;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 import android.widget.Toast;
-import com.google.android.material.bottomsheet.BottomSheetBehavior;
-import com.google.android.material.bottomsheet.BottomSheetBehavior.BottomSheetCallback;
-import com.google.android.material.bottomsheet.BottomSheetDialog;
-import com.google.android.material.switchmaterial.SwitchMaterial;
+import com.google.android.material_m.bottomsheet.BottomSheetBehavior;
+import com.google.android.material_m.bottomsheet.BottomSheetBehavior.BottomSheetCallback;
+import com.google.android.material_m.bottomsheet.BottomSheetDialog;
+import com.google.android.material_m.switchmaterial.SwitchMaterial;
 import io.material.catalog.feature.DemoFragment;
 
 /** A fragment that displays the main BottomSheet demo for the Catalog app. */

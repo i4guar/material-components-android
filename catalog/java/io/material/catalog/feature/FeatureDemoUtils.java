@@ -29,9 +29,9 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentActivity;
 import androidx.fragment.app.FragmentTransaction;
 import android.view.View;
-import com.google.android.material.color.MaterialColors;
-import com.google.android.material.transition.Hold;
-import com.google.android.material.transition.MaterialContainerTransform;
+import com.google.android.material_m.color.MaterialColors;
+import com.google.android.material_m.transition.Hold;
+import com.google.android.material_m.transition.MaterialContainerTransform;
 
 /** Utils for feature demos. */
 public abstract class FeatureDemoUtils {

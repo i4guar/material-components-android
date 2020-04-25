@@ -48,7 +48,7 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.TextView;
-import com.google.android.material.snackbar.Snackbar;
+import com.google.android.material_m.snackbar.Snackbar;
 import io.material.catalog.feature.DemoFragment;
 
 /** A fragment that displays the main menu demo for the Catalog app. */

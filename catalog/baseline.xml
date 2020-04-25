@@ -18,7 +18,7 @@
 
     <issue
         id="ScrollViewSize"
-        message="This com.google.android.material.chip.ChipGroup should use `android:layout_width=&quot;wrap_content&quot;`"
+        message="This com.google.android.material_m.chip.ChipGroup should use `android:layout_width=&quot;wrap_content&quot;`"
         errorLine1="              android:layout_width=&quot;match_parent&quot;"
         errorLine2="              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
@@ -430,7 +430,7 @@
     <issue
         id="UnusedResources"
         message="The resource `R.layout.cat_chip_recyclerview_item` appears to be unused"
-        errorLine1="&lt;com.google.android.material.chip.Chip"
+        errorLine1="&lt;com.google.android.material_m.chip.Chip"
         errorLine2="^">
         <location
             file="java/io/material/catalog/chip/res/layout/cat_chip_recyclerview_item.xml"

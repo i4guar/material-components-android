@@ -28,8 +28,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-import com.google.android.material.elevation.ElevationOverlayProvider;
-import com.google.android.material.internal.ViewUtils;
+import com.google.android.material_m.elevation.ElevationOverlayProvider;
+import com.google.android.material_m.internal.ViewUtils;
 import io.material.catalog.feature.DemoActivity;
 import java.util.Locale;
 

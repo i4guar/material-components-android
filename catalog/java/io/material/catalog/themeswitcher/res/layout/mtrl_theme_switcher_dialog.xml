@@ -28,7 +28,7 @@
       android:layout_marginBottom="4dp"
       android:text="@string/cat_choose_theme_label"/>
 
-  <com.google.android.material.button.MaterialButtonToggleGroup
+  <com.google.android.material_m.button.MaterialButtonToggleGroup
       android:id="@+id/theme_toggle_group"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
@@ -71,7 +71,7 @@
         android:text="@string/cat_choose_theme_default"
         app:icon="@drawable/ic_theme_default_24px"
         app:iconPadding="4dp"/>
-  </com.google.android.material.button.MaterialButtonToggleGroup>
+  </com.google.android.material_m.button.MaterialButtonToggleGroup>
 
   <View
       android:layout_width="match_parent"

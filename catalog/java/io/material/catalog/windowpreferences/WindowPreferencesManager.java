@@ -32,7 +32,7 @@ import androidx.annotation.RequiresApi;
 import androidx.core.graphics.ColorUtils;
 import android.view.View;
 import android.view.Window;
-import com.google.android.material.color.MaterialColors;
+import com.google.android.material_m.color.MaterialColors;
 
 /** Helper that saves the current window preferences for the Catalog. */
 public class WindowPreferencesManager {

@@ -17,7 +17,7 @@
 
 <merge xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
-  <com.google.android.material.appbar.AppBarLayout
+  <com.google.android.material_m.appbar.AppBarLayout
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
       android:fitsSystemWindows="true">
@@ -27,7 +27,7 @@
         style="?attr/catalogToolbarWithCloseButtonStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
-  </com.google.android.material.appbar.AppBarLayout>
+  </com.google.android.material_m.appbar.AppBarLayout>
 
   <androidx.core.widget.NestedScrollView
       android:layout_width="match_parent"

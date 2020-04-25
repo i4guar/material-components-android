@@ -23,7 +23,7 @@
       android:layout_margin="@dimen/cat_textfield_standard_spacing"
       android:orientation="vertical">
 
-    <com.google.android.material.textfield.TextInputLayout
+    <com.google.android.material_m.textfield.TextInputLayout
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -32,12 +32,12 @@
         app:helperText="@string/cat_textfield_outlined_helper_text"
         app:helperTextEnabled="true"
         app:placeholderText="@string/cat_textfield_placeholder_text">
-      <com.google.android.material.textfield.TextInputEditText
+      <com.google.android.material_m.textfield.TextInputEditText
           android:layout_width="match_parent"
           android:layout_height="wrap_content"/>
-    </com.google.android.material.textfield.TextInputLayout>
+    </com.google.android.material_m.textfield.TextInputLayout>
 
-    <com.google.android.material.textfield.TextInputLayout
+    <com.google.android.material_m.textfield.TextInputLayout
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -46,12 +46,12 @@
         app:helperText="@string/cat_textfield_outlined_dense_helper_text"
         app:helperTextEnabled="true"
         app:placeholderText="@string/cat_textfield_placeholder_text">
-      <com.google.android.material.textfield.TextInputEditText
+      <com.google.android.material_m.textfield.TextInputEditText
           android:layout_width="match_parent"
           android:layout_height="wrap_content"/>
-    </com.google.android.material.textfield.TextInputLayout>
+    </com.google.android.material_m.textfield.TextInputLayout>
 
-    <com.google.android.material.textfield.TextInputLayout
+    <com.google.android.material_m.textfield.TextInputLayout
         style="@style/Widget.MaterialComponents.TextInputLayout.FilledBox"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -60,12 +60,12 @@
         app:helperText="@string/cat_textfield_filled_helper_text"
         app:helperTextEnabled="true"
         app:placeholderText="@string/cat_textfield_placeholder_text">
-      <com.google.android.material.textfield.TextInputEditText
+      <com.google.android.material_m.textfield.TextInputEditText
           android:layout_width="match_parent"
           android:layout_height="wrap_content"/>
-    </com.google.android.material.textfield.TextInputLayout>
+    </com.google.android.material_m.textfield.TextInputLayout>
 
-    <com.google.android.material.textfield.TextInputLayout
+    <com.google.android.material_m.textfield.TextInputLayout
         style="@style/Widget.MaterialComponents.TextInputLayout.FilledBox.Dense"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -74,8 +74,8 @@
         app:helperText="@string/cat_textfield_filled_dense_helper_text"
         app:helperTextEnabled="true"
         app:placeholderText="@string/cat_textfield_placeholder_text">
-      <com.google.android.material.textfield.TextInputEditText
+      <com.google.android.material_m.textfield.TextInputEditText
           android:layout_width="match_parent"
           android:layout_height="wrap_content"/>
-    </com.google.android.material.textfield.TextInputLayout>
+    </com.google.android.material_m.textfield.TextInputLayout>
   </LinearLayout>

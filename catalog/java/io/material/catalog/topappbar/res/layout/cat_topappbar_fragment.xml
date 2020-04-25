@@ -22,7 +22,7 @@
     android:layout_height="match_parent"
     android:fitsSystemWindows="true">
 
-  <com.google.android.material.appbar.AppBarLayout
+  <com.google.android.material_m.appbar.AppBarLayout
       android:id="@+id/appbarlayout"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
@@ -35,7 +35,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:title="@string/cat_topappbar_main_demo_toolbar_title"/>
-  </com.google.android.material.appbar.AppBarLayout>
+  </com.google.android.material_m.appbar.AppBarLayout>
 
   <androidx.core.widget.NestedScrollView
       android:layout_width="match_parent"

@@ -23,16 +23,16 @@
     android:paddingStart="?attr/dialogPreferredPadding"
     android:paddingEnd="?attr/dialogPreferredPadding">
 
-  <com.google.android.material.textfield.TextInputLayout
+  <com.google.android.material_m.textfield.TextInputLayout
       android:id="@+id/text_input_layout"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
       android:layout_margin="4dp"
       android:hint="@string/title">
 
-    <com.google.android.material.textfield.TextInputEditText
+    <com.google.android.material_m.textfield.TextInputEditText
         android:id="@android:id/text1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
-  </com.google.android.material.textfield.TextInputLayout>
+  </com.google.android.material_m.textfield.TextInputLayout>
 </FrameLayout>

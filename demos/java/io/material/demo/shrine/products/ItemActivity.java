@@ -28,7 +28,7 @@ import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 import android.widget.TextView;
 import com.android.volley.toolbox.NetworkImageView;
-import com.google.android.material.snackbar.Snackbar;
+import com.google.android.material_m.snackbar.Snackbar;
 
 /**
  * Activity that displays an individual product, including an image, name, and a short description.

@@ -25,7 +25,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
-import com.google.android.material.progressindicator.ProgressIndicator;
+import com.google.android.material_m.progressindicator.ProgressIndicator;
 import io.material.catalog.feature.DemoFragment;
 
 /** This is the fragment to briefly demo different types of {@link ProgressIndicator}. */

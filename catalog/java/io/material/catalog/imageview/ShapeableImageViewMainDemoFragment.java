@@ -24,10 +24,10 @@ import android.util.SparseArray;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import com.google.android.material.button.MaterialButtonToggleGroup;
-import com.google.android.material.imageview.ShapeableImageView;
-import com.google.android.material.shape.CornerFamily;
-import com.google.android.material.shape.ShapeAppearanceModel;
+import com.google.android.material_m.button.MaterialButtonToggleGroup;
+import com.google.android.material_m.imageview.ShapeableImageView;
+import com.google.android.material_m.shape.CornerFamily;
+import com.google.android.material_m.shape.ShapeAppearanceModel;
 import io.material.catalog.feature.DemoFragment;
 import java.util.Random;
 

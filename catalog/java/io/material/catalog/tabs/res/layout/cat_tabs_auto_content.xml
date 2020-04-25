@@ -15,7 +15,7 @@
   limitations under the License.
   -->
 
-<com.google.android.material.tabs.TabLayout
+<com.google.android.material_m.tabs.TabLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/auto_tab_layout"
@@ -23,11 +23,11 @@
     android:layout_height="wrap_content"
     app:tabMode="auto">
 
-   <com.google.android.material.tabs.TabItem
+   <com.google.android.material_m.tabs.TabItem
        android:text="@string/cat_tabs_label_all"/>
-   <com.google.android.material.tabs.TabItem
+   <com.google.android.material_m.tabs.TabItem
        android:text="@string/cat_tabs_label_shopping"/>
-   <com.google.android.material.tabs.TabItem
+   <com.google.android.material_m.tabs.TabItem
        android:text="@string/cat_tabs_label_news"/>
 
-</com.google.android.material.tabs.TabLayout>
+</com.google.android.material_m.tabs.TabLayout>

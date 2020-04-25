@@ -29,7 +29,7 @@ import android.widget.TextView;
 import androidx.recyclerview.selection.ItemDetailsLookup;
 import androidx.recyclerview.selection.ItemKeyProvider;
 import androidx.recyclerview.selection.SelectionTracker;
-import com.google.android.material.card.MaterialCardView;
+import com.google.android.material_m.card.MaterialCardView;
 import java.util.ArrayList;
 import java.util.List;
 

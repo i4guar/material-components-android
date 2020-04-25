@@ -25,7 +25,7 @@
 
   <include layout="@layout/design_content_appbar_toolbar_collapse_pin"/>
 
-  <com.google.android.material.floatingactionbutton.FloatingActionButton
+  <com.google.android.material_m.floatingactionbutton.FloatingActionButton
       android:id="@+id/fab"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
@@ -35,7 +35,7 @@
       app:srcCompat="@drawable/vector_icon"
       tools:ignore="RtlHardcoded"/>
 
-  <com.google.android.material.floatingactionbutton.FloatingActionButton
+  <com.google.android.material_m.floatingactionbutton.FloatingActionButton
       android:id="@+id/fab2"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"

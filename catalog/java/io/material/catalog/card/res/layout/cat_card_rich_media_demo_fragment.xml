@@ -33,7 +33,7 @@
         android:text="@string/cat_card_rich_media_sample_1"
         android:textAppearance="?attr/textAppearanceSubtitle1"/>
 
-    <com.google.android.material.card.MaterialCardView
+    <com.google.android.material_m.card.MaterialCardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/mtrl_card_spacing"
@@ -92,7 +92,7 @@
             android:orientation="horizontal"
             android:paddingHorizontal="@dimen/cat_card_single_spacing">
 
-          <com.google.android.material.button.MaterialButton
+          <com.google.android.material_m.button.MaterialButton
               style="?attr/borderlessButtonStyle"
               android:layout_width="wrap_content"
               android:layout_height="wrap_content"
@@ -100,7 +100,7 @@
               android:layout_marginRight="@dimen/cat_card_single_spacing"
               android:text="@string/cat_card_rich_media_action_1"/>
 
-          <com.google.android.material.button.MaterialButton
+          <com.google.android.material_m.button.MaterialButton
               style="?attr/borderlessButtonStyle"
               android:layout_width="wrap_content"
               android:layout_height="wrap_content"
@@ -112,7 +112,7 @@
 
       </LinearLayout>
 
-    </com.google.android.material.card.MaterialCardView>
+    </com.google.android.material_m.card.MaterialCardView>
 
     <TextView
         android:layout_width="wrap_content"
@@ -121,7 +121,7 @@
         android:text="@string/cat_card_rich_media_sample_2"
         android:textAppearance="?attr/textAppearanceSubtitle1"/>
 
-    <com.google.android.material.card.MaterialCardView
+    <com.google.android.material_m.card.MaterialCardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/mtrl_card_spacing"
@@ -194,7 +194,7 @@
             android:padding="@dimen/cat_card_single_spacing"
             android:orientation="horizontal">
 
-          <com.google.android.material.button.MaterialButton
+          <com.google.android.material_m.button.MaterialButton
               style="?attr/borderlessButtonStyle"
               android:layout_width="wrap_content"
               android:layout_height="wrap_content"
@@ -202,7 +202,7 @@
               android:layout_marginRight="@dimen/cat_card_single_spacing"
               android:text="@string/cat_card_rich_media_action_1"/>
 
-          <com.google.android.material.button.MaterialButton
+          <com.google.android.material_m.button.MaterialButton
               style="?attr/borderlessButtonStyle"
               android:layout_width="wrap_content"
               android:layout_height="wrap_content"
@@ -214,7 +214,7 @@
 
       </LinearLayout>
 
-    </com.google.android.material.card.MaterialCardView>
+    </com.google.android.material_m.card.MaterialCardView>
 
     <TextView
         android:layout_width="wrap_content"
@@ -223,7 +223,7 @@
         android:text="@string/cat_card_rich_media_sample_3"
         android:textAppearance="?attr/textAppearanceSubtitle1"/>
 
-    <com.google.android.material.card.MaterialCardView
+    <com.google.android.material_m.card.MaterialCardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/mtrl_card_spacing"
@@ -307,30 +307,30 @@
               android:layout_marginTop="@dimen/cat_card_double_spacing"
               android:layout_marginBottom="@dimen/cat_card_single_spacing"
               android:text="@string/cat_card_rich_media_view_subtitle"/>
-          <com.google.android.material.chip.ChipGroup
+          <com.google.android.material_m.chip.ChipGroup
               android:layout_width="match_parent"
               android:layout_height="wrap_content">
-            <com.google.android.material.chip.Chip
+            <com.google.android.material_m.chip.Chip
                 style="@style/Widget.MaterialComponents.Chip.Action"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/cat_card_rich_media_chip_title_1"/>
-            <com.google.android.material.chip.Chip
+            <com.google.android.material_m.chip.Chip
                 style="@style/Widget.MaterialComponents.Chip.Action"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/cat_card_rich_media_chip_title_2"/>
-            <com.google.android.material.chip.Chip
+            <com.google.android.material_m.chip.Chip
                 style="@style/Widget.MaterialComponents.Chip.Action"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/cat_card_rich_media_chip_title_3"/>
-            <com.google.android.material.chip.Chip
+            <com.google.android.material_m.chip.Chip
                 style="@style/Widget.MaterialComponents.Chip.Action"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/cat_card_rich_media_chip_title_4"/>
-          </com.google.android.material.chip.ChipGroup>
+          </com.google.android.material_m.chip.ChipGroup>
         </LinearLayout>
 
 
@@ -342,7 +342,7 @@
             android:paddingRight="@dimen/cat_card_single_spacing"
             android:orientation="horizontal">
 
-          <com.google.android.material.button.MaterialButton
+          <com.google.android.material_m.button.MaterialButton
               style="?attr/borderlessButtonStyle"
               android:layout_width="wrap_content"
               android:layout_height="wrap_content"
@@ -354,6 +354,6 @@
 
       </LinearLayout>
 
-    </com.google.android.material.card.MaterialCardView>
+    </com.google.android.material_m.card.MaterialCardView>
   </LinearLayout>
 </ScrollView>

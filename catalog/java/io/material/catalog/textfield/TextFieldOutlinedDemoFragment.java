@@ -19,7 +19,7 @@ package io.material.catalog.textfield;
 import io.material.catalog.R;
 
 import androidx.annotation.LayoutRes;
-import com.google.android.material.textfield.TextInputLayout;
+import com.google.android.material_m.textfield.TextInputLayout;
 
 /** A fragment that displays the outlined text field demos with controls for the Catalog app. */
 public class TextFieldOutlinedDemoFragment extends TextFieldControllableDemoFragment {

@@ -16,7 +16,7 @@
   -->
 
 
-<com.google.android.material.bottomnavigation.BottomNavigationView
+<com.google.android.material_m.bottomnavigation.BottomNavigationView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/cat_bottom_nav"

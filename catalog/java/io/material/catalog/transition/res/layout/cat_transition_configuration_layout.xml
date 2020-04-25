@@ -46,7 +46,7 @@
           android:paddingEnd="16dp"
           android:text="@string/cat_transition_config_path_motion_title"/>
 
-      <com.google.android.material.button.MaterialButtonToggleGroup
+      <com.google.android.material_m.button.MaterialButtonToggleGroup
           android:id="@+id/path_motion_button_group"
           android:layout_width="wrap_content"
           android:layout_height="wrap_content"
@@ -71,7 +71,7 @@
             android:layout_height="wrap_content"
             android:text="@string/cat_transition_config_path_motion_arc"/>
 
-      </com.google.android.material.button.MaterialButtonToggleGroup>
+      </com.google.android.material_m.button.MaterialButtonToggleGroup>
 
       <TextView
           android:layout_width="wrap_content"
@@ -91,7 +91,7 @@
           android:clipChildren="false"
           android:clipToPadding="false">
 
-        <com.google.android.material.slider.Slider
+        <com.google.android.material_m.slider.Slider
             android:id="@+id/enter_duration_slider"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -134,7 +134,7 @@
           android:clipChildren="false"
           android:clipToPadding="false">
 
-        <com.google.android.material.slider.Slider
+        <com.google.android.material_m.slider.Slider
             android:id="@+id/return_duration_slider"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -207,7 +207,7 @@
           android:baselineAligned="false"
           android:orientation="horizontal">
 
-        <com.google.android.material.textfield.TextInputLayout
+        <com.google.android.material_m.textfield.TextInputLayout
             android:id="@+id/x1_text_input_layout"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -216,16 +216,16 @@
             android:layout_weight="1"
             android:hint="@string/cat_transition_config_cubic_bezier_control_x1_hint">
 
-          <com.google.android.material.textfield.TextInputEditText
+          <com.google.android.material_m.textfield.TextInputEditText
               android:id="@+id/x1_edit_text"
               android:layout_width="match_parent"
               android:layout_height="wrap_content"
               android:imeOptions="actionNext"
               android:inputType="numberDecimal"/>
 
-        </com.google.android.material.textfield.TextInputLayout>
+        </com.google.android.material_m.textfield.TextInputLayout>
 
-        <com.google.android.material.textfield.TextInputLayout
+        <com.google.android.material_m.textfield.TextInputLayout
             android:id="@+id/y1_text_input_layout"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -234,15 +234,15 @@
             android:layout_weight="1"
             android:hint="@string/cat_transition_config_cubic_bezier_control_y1_hint">
 
-          <com.google.android.material.textfield.TextInputEditText
+          <com.google.android.material_m.textfield.TextInputEditText
               android:id="@+id/y1_edit_text"
               android:layout_width="match_parent"
               android:layout_height="wrap_content"
               android:imeOptions="actionNext"
               android:inputType="numberDecimal"/>
-        </com.google.android.material.textfield.TextInputLayout>
+        </com.google.android.material_m.textfield.TextInputLayout>
 
-        <com.google.android.material.textfield.TextInputLayout
+        <com.google.android.material_m.textfield.TextInputLayout
             android:id="@+id/x2_text_input_layout"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -251,16 +251,16 @@
             android:layout_weight="1"
             android:hint="@string/cat_transition_config_cubic_bezier_control_x2_hint">
 
-          <com.google.android.material.textfield.TextInputEditText
+          <com.google.android.material_m.textfield.TextInputEditText
               android:id="@+id/x2_edit_text"
               android:layout_width="match_parent"
               android:layout_height="wrap_content"
               android:imeOptions="actionNext"
               android:inputType="numberDecimal"/>
 
-        </com.google.android.material.textfield.TextInputLayout>
+        </com.google.android.material_m.textfield.TextInputLayout>
 
-        <com.google.android.material.textfield.TextInputLayout
+        <com.google.android.material_m.textfield.TextInputLayout
             android:id="@+id/y2_text_input_layout"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -269,14 +269,14 @@
             android:layout_weight="1"
             android:hint="@string/cat_transition_config_cubic_bezier_control_y2_hint">
 
-          <com.google.android.material.textfield.TextInputEditText
+          <com.google.android.material_m.textfield.TextInputEditText
               android:id="@+id/y2_edit_text"
               android:layout_width="match_parent"
               android:layout_height="wrap_content"
               android:imeOptions="actionDone"
               android:inputType="numberDecimal"/>
 
-        </com.google.android.material.textfield.TextInputLayout>
+        </com.google.android.material_m.textfield.TextInputLayout>
 
       </LinearLayout>
 
@@ -288,7 +288,7 @@
           android:paddingEnd="16dp"
           android:text="@string/cat_transition_config_fade_mode_title"/>
 
-      <com.google.android.material.button.MaterialButtonToggleGroup
+      <com.google.android.material_m.button.MaterialButtonToggleGroup
           android:id="@+id/fade_mode_button_group"
           android:layout_width="wrap_content"
           android:layout_height="wrap_content"
@@ -331,7 +331,7 @@
             android:minWidth="0dp"
             android:text="@string/cat_transition_config_fade_mode_through"/>
 
-      </com.google.android.material.button.MaterialButtonToggleGroup>
+      </com.google.android.material_m.button.MaterialButtonToggleGroup>
 
       <TextView
           android:layout_width="wrap_content"

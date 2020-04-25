@@ -26,7 +26,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-import com.google.android.material.shape.MaterialShapeDrawable;
+import com.google.android.material_m.shape.MaterialShapeDrawable;
 import io.material.catalog.feature.DemoFragment;
 
 /** A fragment that displays the Elevation animation demo for the Catalog app. */

@@ -26,7 +26,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import com.google.android.material.chip.Chip;
+import com.google.android.material_m.chip.Chip;
 import io.material.catalog.feature.DemoFragment;
 import java.util.HashSet;
 import java.util.Set;

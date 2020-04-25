@@ -29,7 +29,7 @@
     app:orientation="vertical"
     tools:targetApi="lollipop">
 
-    <com.google.android.material.card.MaterialCardView
+    <com.google.android.material_m.card.MaterialCardView
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_margin="4dp"
@@ -64,9 +64,9 @@
               android:textAppearance="?attr/textAppearanceCaption"/>
         </LinearLayout>
       </LinearLayout>
-    </com.google.android.material.card.MaterialCardView>
+    </com.google.android.material_m.card.MaterialCardView>
 
-    <com.google.android.material.card.MaterialCardView
+    <com.google.android.material_m.card.MaterialCardView
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_margin="4dp"
@@ -101,8 +101,8 @@
               android:textAppearance="?attr/textAppearanceCaption"/>
         </LinearLayout>
       </LinearLayout>
-    </com.google.android.material.card.MaterialCardView>
-    <com.google.android.material.card.MaterialCardView
+    </com.google.android.material_m.card.MaterialCardView>
+    <com.google.android.material_m.card.MaterialCardView
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_margin="4dp"
@@ -137,9 +137,9 @@
               android:textAppearance="?attr/textAppearanceCaption"/>
         </LinearLayout>
       </LinearLayout>
-    </com.google.android.material.card.MaterialCardView>
+    </com.google.android.material_m.card.MaterialCardView>
 
-    <com.google.android.material.card.MaterialCardView
+    <com.google.android.material_m.card.MaterialCardView
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_margin="4dp"
@@ -174,8 +174,8 @@
               android:textAppearance="?attr/textAppearanceCaption"/>
         </LinearLayout>
       </LinearLayout>
-    </com.google.android.material.card.MaterialCardView>
-    <com.google.android.material.card.MaterialCardView
+    </com.google.android.material_m.card.MaterialCardView>
+    <com.google.android.material_m.card.MaterialCardView
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_margin="4dp"
@@ -210,9 +210,9 @@
               android:textAppearance="?attr/textAppearanceCaption"/>
         </LinearLayout>
       </LinearLayout>
-    </com.google.android.material.card.MaterialCardView>
+    </com.google.android.material_m.card.MaterialCardView>
 
-    <com.google.android.material.card.MaterialCardView
+    <com.google.android.material_m.card.MaterialCardView
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_margin="4dp"
@@ -247,6 +247,6 @@
               android:textAppearance="?attr/textAppearanceCaption"/>
         </LinearLayout>
       </LinearLayout>
-    </com.google.android.material.card.MaterialCardView>
+    </com.google.android.material_m.card.MaterialCardView>
 
 </androidx.gridlayout.widget.GridLayout>

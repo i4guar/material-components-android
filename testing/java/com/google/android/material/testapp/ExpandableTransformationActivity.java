@@ -18,7 +18,7 @@ package com.google.android.material.testapp;
 
 import androidx.annotation.VisibleForTesting;
 import android.view.View;
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
+import com.google.android.material_m.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.testapp.base.BaseTestActivity;
 
 /** Test Activity for ExpandableTransformationBehaviors. */

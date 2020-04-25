@@ -22,7 +22,7 @@
     android:layout_height="wrap_content"
     android:orientation="vertical">
 
-  <com.google.android.material.textfield.TextInputLayout
+  <com.google.android.material_m.textfield.TextInputLayout
       style="@style/Widget.MaterialComponents.TextInputLayout.FilledBox"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
@@ -32,12 +32,12 @@
       app:helperText="@string/cat_textfield_filled_prefix_helper_text"
       app:helperTextEnabled="true"
       app:prefixText="@string/cat_textfield_prefix">
-    <com.google.android.material.textfield.TextInputEditText
+    <com.google.android.material_m.textfield.TextInputEditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
-  </com.google.android.material.textfield.TextInputLayout>
+  </com.google.android.material_m.textfield.TextInputLayout>
 
-  <com.google.android.material.textfield.TextInputLayout
+  <com.google.android.material_m.textfield.TextInputLayout
       style="@style/Widget.MaterialComponents.TextInputLayout.FilledBox"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
@@ -47,14 +47,14 @@
       app:helperText="@string/cat_textfield_filled_suffix_helper_text"
       app:helperTextEnabled="true"
       app:suffixText="@string/cat_textfield_suffix">
-    <com.google.android.material.textfield.TextInputEditText
+    <com.google.android.material_m.textfield.TextInputEditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="end"
         android:textAlignment="textEnd"/>
-  </com.google.android.material.textfield.TextInputLayout>
+  </com.google.android.material_m.textfield.TextInputLayout>
 
-  <com.google.android.material.textfield.TextInputLayout
+  <com.google.android.material_m.textfield.TextInputLayout
       style="@style/Widget.MaterialComponents.TextInputLayout.FilledBox"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
@@ -65,12 +65,12 @@
       app:helperTextEnabled="true"
       app:startIconDrawable="@drawable/ic_search_24px"
       app:prefixText="@string/cat_textfield_prefix">
-    <com.google.android.material.textfield.TextInputEditText
+    <com.google.android.material_m.textfield.TextInputEditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
-  </com.google.android.material.textfield.TextInputLayout>
+  </com.google.android.material_m.textfield.TextInputLayout>
 
-  <com.google.android.material.textfield.TextInputLayout
+  <com.google.android.material_m.textfield.TextInputLayout
       style="@style/Widget.MaterialComponents.TextInputLayout.FilledBox"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
@@ -81,14 +81,14 @@
       app:helperTextEnabled="true"
       app:endIconMode="clear_text"
       app:suffixText="@string/cat_textfield_suffix">
-    <com.google.android.material.textfield.TextInputEditText
+    <com.google.android.material_m.textfield.TextInputEditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="end"
         android:textAlignment="textEnd"/>
-  </com.google.android.material.textfield.TextInputLayout>
+  </com.google.android.material_m.textfield.TextInputLayout>
 
-  <com.google.android.material.textfield.TextInputLayout
+  <com.google.android.material_m.textfield.TextInputLayout
       style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
@@ -98,12 +98,12 @@
       app:helperText="@string/cat_textfield_outlined_prefix_helper_text"
       app:helperTextEnabled="true"
       app:prefixText="@string/cat_textfield_prefix">
-    <com.google.android.material.textfield.TextInputEditText
+    <com.google.android.material_m.textfield.TextInputEditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
-  </com.google.android.material.textfield.TextInputLayout>
+  </com.google.android.material_m.textfield.TextInputLayout>
 
-  <com.google.android.material.textfield.TextInputLayout
+  <com.google.android.material_m.textfield.TextInputLayout
       style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
@@ -113,14 +113,14 @@
       app:helperText="@string/cat_textfield_outlined_suffix_helper_text"
       app:helperTextEnabled="true"
       app:suffixText="@string/cat_textfield_suffix">
-    <com.google.android.material.textfield.TextInputEditText
+    <com.google.android.material_m.textfield.TextInputEditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="end"
         android:textAlignment="textEnd"/>
-  </com.google.android.material.textfield.TextInputLayout>
+  </com.google.android.material_m.textfield.TextInputLayout>
 
-  <com.google.android.material.textfield.TextInputLayout
+  <com.google.android.material_m.textfield.TextInputLayout
       style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
@@ -131,12 +131,12 @@
       app:helperTextEnabled="true"
       app:startIconDrawable="@drawable/ic_search_24px"
       app:prefixText="@string/cat_textfield_prefix">
-    <com.google.android.material.textfield.TextInputEditText
+    <com.google.android.material_m.textfield.TextInputEditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
-  </com.google.android.material.textfield.TextInputLayout>
+  </com.google.android.material_m.textfield.TextInputLayout>
 
-  <com.google.android.material.textfield.TextInputLayout
+  <com.google.android.material_m.textfield.TextInputLayout
       style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
@@ -147,11 +147,11 @@
       app:helperTextEnabled="true"
       app:endIconMode="clear_text"
       app:suffixText="@string/cat_textfield_suffix">
-    <com.google.android.material.textfield.TextInputEditText
+    <com.google.android.material_m.textfield.TextInputEditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="end"
         android:textAlignment="textEnd"/>
-  </com.google.android.material.textfield.TextInputLayout>
+  </com.google.android.material_m.textfield.TextInputLayout>
 
 </LinearLayout>

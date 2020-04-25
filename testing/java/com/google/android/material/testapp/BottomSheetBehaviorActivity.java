@@ -20,8 +20,8 @@ import android.content.Intent;
 import androidx.annotation.VisibleForTesting;
 import android.widget.LinearLayout;
 import androidx.coordinatorlayout.widget.CoordinatorLayout;
-import com.google.android.material.bottomsheet.BottomSheetBehavior;
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
+import com.google.android.material_m.bottomsheet.BottomSheetBehavior;
+import com.google.android.material_m.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.testapp.base.BaseTestActivity;
 
 public class BottomSheetBehaviorActivity extends BaseTestActivity {

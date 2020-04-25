@@ -635,7 +635,7 @@
     <issue
         id="UnusedResources"
         message="The resource `R.layout.design_tabs` appears to be unused"
-        errorLine1="&lt;com.google.android.material.tabs.TabLayout"
+        errorLine1="&lt;com.google.android.material_m.tabs.TabLayout"
         errorLine2="^">
         <location
             file="res/layout/design_tabs.xml"
@@ -646,7 +646,7 @@
     <issue
         id="UnusedResources"
         message="The resource `R.layout.design_tabs_fixed_width` appears to be unused"
-        errorLine1="&lt;com.google.android.material.tabs.TabLayout"
+        errorLine1="&lt;com.google.android.material_m.tabs.TabLayout"
         errorLine2="^">
         <location
             file="res/layout/design_tabs_fixed_width.xml"
@@ -657,7 +657,7 @@
     <issue
         id="UnusedResources"
         message="The resource `R.layout.design_tabs_items` appears to be unused"
-        errorLine1="&lt;com.google.android.material.tabs.TabLayout"
+        errorLine1="&lt;com.google.android.material_m.tabs.TabLayout"
         errorLine2="^">
         <location
             file="res/layout/design_tabs_items.xml"
@@ -668,7 +668,7 @@
     <issue
         id="UnusedResources"
         message="The resource `R.layout.design_tabs_with_non_tabitems` appears to be unused"
-        errorLine1="&lt;com.google.android.material.tabs.TabLayout"
+        errorLine1="&lt;com.google.android.material_m.tabs.TabLayout"
         errorLine2="^">
         <location
             file="res/layout/design_tabs_with_non_tabitems.xml"
@@ -1031,7 +1031,7 @@
     <issue
         id="UnusedResources"
         message="The resource `R.layout.tab_layout_bound_max` appears to be unused"
-        errorLine1="&lt;com.google.android.material.tabs.TabLayout"
+        errorLine1="&lt;com.google.android.material_m.tabs.TabLayout"
         errorLine2="^">
         <location
             file="res/layout/tab_layout_bound_max.xml"
@@ -1042,7 +1042,7 @@
     <issue
         id="UnusedResources"
         message="The resource `R.layout.tab_layout_bound_min` appears to be unused"
-        errorLine1="&lt;com.google.android.material.tabs.TabLayout"
+        errorLine1="&lt;com.google.android.material_m.tabs.TabLayout"
         errorLine2="^">
         <location
             file="res/layout/tab_layout_bound_min.xml"
@@ -1053,7 +1053,7 @@
     <issue
         id="UnusedResources"
         message="The resource `R.layout.tab_layout_bound_minmax` appears to be unused"
-        errorLine1="&lt;com.google.android.material.tabs.TabLayout"
+        errorLine1="&lt;com.google.android.material_m.tabs.TabLayout"
         errorLine2="^">
         <location
             file="res/layout/tab_layout_bound_minmax.xml"

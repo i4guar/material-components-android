@@ -21,32 +21,32 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-  <com.google.android.material.tabs.TabLayout
+  <com.google.android.material_m.tabs.TabLayout
       android:id="@+id/scrollable_tab_layout"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
       app:tabMode="scrollable">
 
-    <com.google.android.material.tabs.TabItem
+    <com.google.android.material_m.tabs.TabItem
         android:text="@string/cat_tabs_label_all"/>
-    <com.google.android.material.tabs.TabItem
+    <com.google.android.material_m.tabs.TabItem
         android:text="@string/cat_tabs_label_shopping"/>
-    <com.google.android.material.tabs.TabItem
+    <com.google.android.material_m.tabs.TabItem
         android:text="@string/cat_tabs_label_news"/>
-    <com.google.android.material.tabs.TabItem
+    <com.google.android.material_m.tabs.TabItem
         android:text="@string/cat_tabs_label_maps"/>
-    <com.google.android.material.tabs.TabItem
+    <com.google.android.material_m.tabs.TabItem
         android:text="@string/cat_tabs_label_images"/>
-    <com.google.android.material.tabs.TabItem
+    <com.google.android.material_m.tabs.TabItem
         android:text="@string/cat_tabs_label_updates"/>
-    <com.google.android.material.tabs.TabItem
+    <com.google.android.material_m.tabs.TabItem
         android:text="@string/cat_tabs_label_settings"/>
-    <com.google.android.material.tabs.TabItem
+    <com.google.android.material_m.tabs.TabItem
         android:text="@string/cat_tabs_label_plugins"/>
-    <com.google.android.material.tabs.TabItem
+    <com.google.android.material_m.tabs.TabItem
         android:text="@string/cat_tabs_label_more"/>
 
-  </com.google.android.material.tabs.TabLayout>
+  </com.google.android.material_m.tabs.TabLayout>
 
 </FrameLayout>
 

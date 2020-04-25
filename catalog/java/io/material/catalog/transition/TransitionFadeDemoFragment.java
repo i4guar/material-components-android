@@ -28,8 +28,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.google.android.material.transition.MaterialFade;
+import com.google.android.material_m.floatingactionbutton.FloatingActionButton;
+import com.google.android.material_m.transition.MaterialFade;
 import io.material.catalog.feature.DemoFragment;
 
 /** A fragment that displays the Fade Transition demo for the Catalog app. */

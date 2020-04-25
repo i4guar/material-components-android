@@ -15,7 +15,7 @@
   limitations under the License.
   -->
 
-<com.google.android.material.card.MaterialCardView
+<com.google.android.material_m.card.MaterialCardView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/item_card"
     android:layout_width="match_parent"
@@ -50,4 +50,4 @@
         android:layout_height="wrap_content"
         android:textAppearance="?attr/textAppearanceCaption"/>
   </LinearLayout>
-</com.google.android.material.card.MaterialCardView>
+</com.google.android.material_m.card.MaterialCardView>

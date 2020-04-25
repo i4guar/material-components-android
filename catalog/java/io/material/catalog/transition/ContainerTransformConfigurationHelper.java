@@ -38,13 +38,13 @@ import android.widget.EditText;
 import android.widget.RadioGroup;
 import android.widget.TextView;
 import androidx.interpolator.view.animation.FastOutSlowInInterpolator;
-import com.google.android.material.bottomsheet.BottomSheetDialog;
-import com.google.android.material.button.MaterialButtonToggleGroup;
-import com.google.android.material.slider.Slider;
-import com.google.android.material.slider.Slider.OnChangeListener;
-import com.google.android.material.textfield.TextInputLayout;
-import com.google.android.material.transition.MaterialArcMotion;
-import com.google.android.material.transition.MaterialContainerTransform;
+import com.google.android.material_m.bottomsheet.BottomSheetDialog;
+import com.google.android.material_m.button.MaterialButtonToggleGroup;
+import com.google.android.material_m.slider.Slider;
+import com.google.android.material_m.slider.Slider.OnChangeListener;
+import com.google.android.material_m.textfield.TextInputLayout;
+import com.google.android.material_m.transition.MaterialArcMotion;
+import com.google.android.material_m.transition.MaterialContainerTransform;
 
 /**
  * A helper class which manages all configuration UI presented in {@link
@@ -101,7 +101,7 @@ public class ContainerTransformConfigurationHelper {
 
   /**
    * Whether or not to a custom container transform should use {@link
-   * com.google.android.material.transition.MaterialArcMotion}.
+   * MaterialArcMotion}.
    */
   boolean isArcMotionEnabled() {
     return isArcMotionEnabled;

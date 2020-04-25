@@ -91,7 +91,7 @@
     </LinearLayout>
   </androidx.core.widget.NestedScrollView>
 
-  <com.google.android.material.appbar.AppBarLayout
+  <com.google.android.material_m.appbar.AppBarLayout
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
       app:liftOnScroll="true"
@@ -102,5 +102,5 @@
         style="?attr/catalogToolbarStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
-  </com.google.android.material.appbar.AppBarLayout>
+  </com.google.android.material_m.appbar.AppBarLayout>
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

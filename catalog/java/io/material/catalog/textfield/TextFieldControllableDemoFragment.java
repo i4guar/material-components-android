@@ -26,9 +26,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.Toast;
-import com.google.android.material.switchmaterial.SwitchMaterial;
-import com.google.android.material.textfield.TextInputEditText;
-import com.google.android.material.textfield.TextInputLayout;
+import com.google.android.material_m.switchmaterial.SwitchMaterial;
+import com.google.android.material_m.textfield.TextInputEditText;
+import com.google.android.material_m.textfield.TextInputLayout;
 
 /** A base class for controllable text field demos in the Catalog app. */
 public abstract class TextFieldControllableDemoFragment extends TextFieldDemoFragment {

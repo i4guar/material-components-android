@@ -15,7 +15,7 @@
   limitations under the License.
   -->
 
-<com.google.android.material.card.MaterialCardView
+<com.google.android.material_m.card.MaterialCardView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -47,4 +47,4 @@
       android:padding="16dp"
       app:srcCompat="@drawable/ic_drag_handle_vd_theme_24px"
       tools:targetApi="jelly_bean"/>
-</com.google.android.material.card.MaterialCardView>
+</com.google.android.material_m.card.MaterialCardView>

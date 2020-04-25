@@ -27,7 +27,7 @@
       android:layout_height="wrap_content"
       android:layout_margin="@dimen/cat_bottom_nav_standard_spacing"
       android:text="@string/cat_bottom_nav_legacy_title"/>
-  <com.google.android.material.bottomnavigation.BottomNavigationView
+  <com.google.android.material_m.bottomnavigation.BottomNavigationView
       style="@style/Widget.Design.BottomNavigationView"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
@@ -40,7 +40,7 @@
       android:layout_height="wrap_content"
       android:layout_margin="@dimen/cat_bottom_nav_standard_spacing"
       android:text="@string/cat_bottom_nav_default_title"/>
-  <com.google.android.material.bottomnavigation.BottomNavigationView
+  <com.google.android.material_m.bottomnavigation.BottomNavigationView
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
       app:menu="@menu/bottom_nav_menu"/>
@@ -52,7 +52,7 @@
       android:layout_height="wrap_content"
       android:layout_margin="@dimen/cat_bottom_nav_standard_spacing"
       android:text="@string/cat_bottom_nav_colored_title"/>
-  <com.google.android.material.bottomnavigation.BottomNavigationView
+  <com.google.android.material_m.bottomnavigation.BottomNavigationView
       style="@style/Widget.MaterialComponents.BottomNavigationView.Colored"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"

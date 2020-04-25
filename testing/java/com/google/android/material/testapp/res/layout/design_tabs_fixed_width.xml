@@ -16,27 +16,27 @@
 -->
 
 <!-- Width is fixed to test scrolling -->
-<com.google.android.material.tabs.TabLayout
+<com.google.android.material_m.tabs.TabLayout
   xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:app="http://schemas.android.com/apk/res-auto"
   android:id="@+id/tabs"
   android:layout_width="160dp"
   android:layout_height="wrap_content"
   app:tabMode="scrollable">
-  <com.google.android.material.tabs.TabItem
+  <com.google.android.material_m.tabs.TabItem
     android:text="Tab 0" />
-  <com.google.android.material.tabs.TabItem
+  <com.google.android.material_m.tabs.TabItem
     android:text="Tab 1" />
-  <com.google.android.material.tabs.TabItem
+  <com.google.android.material_m.tabs.TabItem
     android:text="Tab 2" />
-  <com.google.android.material.tabs.TabItem
+  <com.google.android.material_m.tabs.TabItem
     android:text="Tab 3" />
-  <com.google.android.material.tabs.TabItem
+  <com.google.android.material_m.tabs.TabItem
     android:text="Tab 4" />
-  <com.google.android.material.tabs.TabItem
+  <com.google.android.material_m.tabs.TabItem
     android:text="Tab 5" />
-  <com.google.android.material.tabs.TabItem
+  <com.google.android.material_m.tabs.TabItem
     android:text="Tab 6" />
-  <com.google.android.material.tabs.TabItem
+  <com.google.android.material_m.tabs.TabItem
     android:text="Tab 7" />
-</com.google.android.material.tabs.TabLayout>
+</com.google.android.material_m.tabs.TabLayout>

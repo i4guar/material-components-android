@@ -31,7 +31,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.Window;
-import com.google.android.material.transition.MaterialContainerTransformSharedElementCallback;
+import com.google.android.material_m.transition.MaterialContainerTransformSharedElementCallback;
 import io.material.catalog.feature.DemoActivity;
 
 /**

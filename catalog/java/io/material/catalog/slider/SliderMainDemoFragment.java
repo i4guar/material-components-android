@@ -24,9 +24,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import com.google.android.material.slider.Slider;
-import com.google.android.material.slider.Slider.OnSliderTouchListener;
-import com.google.android.material.snackbar.Snackbar;
+import com.google.android.material_m.slider.Slider;
+import com.google.android.material_m.slider.Slider.OnSliderTouchListener;
+import com.google.android.material_m.snackbar.Snackbar;
 import io.material.catalog.feature.DemoFragment;
 
 /** A fragment that displays the main Slider demo for the Catalog app. */

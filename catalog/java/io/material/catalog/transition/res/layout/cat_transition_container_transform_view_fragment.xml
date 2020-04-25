@@ -25,7 +25,7 @@
 
   <include layout="@layout/cat_transition_list_fragment" />
 
-  <com.google.android.material.card.MaterialCardView
+  <com.google.android.material_m.card.MaterialCardView
       android:id="@+id/end_card"
       android:layout_width="300dp"
       android:layout_height="400dp"
@@ -35,7 +35,7 @@
       android:layout_margin="16dp"
       android:visibility="gone"/>
 
-  <com.google.android.material.floatingactionbutton.FloatingActionButton
+  <com.google.android.material_m.floatingactionbutton.FloatingActionButton
       android:id="@+id/start_fab"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"

@@ -22,23 +22,23 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <com.google.android.material.tabs.TabLayout
+    <com.google.android.material_m.tabs.TabLayout
         android:id="@+id/tabs_1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-        <com.google.android.material.tabs.TabItem
+        <com.google.android.material_m.tabs.TabItem
             android:text="@string/tab_layout_text"/>
 
-        <com.google.android.material.tabs.TabItem
+        <com.google.android.material_m.tabs.TabItem
             android:icon="@android:drawable/star_on"/>
 
-        <com.google.android.material.tabs.TabItem
+        <com.google.android.material_m.tabs.TabItem
             android:layout="@layout/design_tab_item_custom"/>
 
-    </com.google.android.material.tabs.TabLayout>
+    </com.google.android.material_m.tabs.TabLayout>
 
-    <com.google.android.material.tabs.TabLayout
+    <com.google.android.material_m.tabs.TabLayout
         android:id="@+id/tabs_2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />

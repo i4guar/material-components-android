@@ -31,23 +31,23 @@
         android:text="@string/cat_tabs_legacy_tabs_label"
         android:textSize="16sp"/>
 
-    <com.google.android.material.tabs.TabLayout
+    <com.google.android.material_m.tabs.TabLayout
         style="@style/Widget.Design.TabLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp">
 
-      <com.google.android.material.tabs.TabItem
+      <com.google.android.material_m.tabs.TabItem
           android:icon="@drawable/ic_colors_24px"
           android:text="@string/cat_tabs_label_shopping"/>
-      <com.google.android.material.tabs.TabItem
+      <com.google.android.material_m.tabs.TabItem
           android:icon="@drawable/ic_fab_24px"
           android:text="@string/cat_tabs_label_news"/>
-      <com.google.android.material.tabs.TabItem
+      <com.google.android.material_m.tabs.TabItem
           android:icon="@drawable/ic_components_24px"
           android:text="@string/cat_tabs_label_maps"/>
 
-    </com.google.android.material.tabs.TabLayout>
+    </com.google.android.material_m.tabs.TabLayout>
 
     <TextView
         android:textStyle="bold"
@@ -57,22 +57,22 @@
         android:text="@string/cat_tabs_material_tabs_label"
         android:textSize="16sp"/>
 
-    <com.google.android.material.tabs.TabLayout
+    <com.google.android.material_m.tabs.TabLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp">
 
-      <com.google.android.material.tabs.TabItem
+      <com.google.android.material_m.tabs.TabItem
           android:icon="@drawable/ic_colors_24px"
           android:text="@string/cat_tabs_label_shopping"/>
-      <com.google.android.material.tabs.TabItem
+      <com.google.android.material_m.tabs.TabItem
           android:icon="@drawable/ic_fab_24px"
           android:text="@string/cat_tabs_label_news"/>
-      <com.google.android.material.tabs.TabItem
+      <com.google.android.material_m.tabs.TabItem
           android:icon="@drawable/ic_components_24px"
           android:text="@string/cat_tabs_label_maps"/>
 
-    </com.google.android.material.tabs.TabLayout>
+    </com.google.android.material_m.tabs.TabLayout>
 
     <TextView
         android:textStyle="bold"
@@ -82,22 +82,22 @@
         android:text="@string/cat_tabs_colored_tabs_label"
         android:textSize="16sp"/>
 
-    <com.google.android.material.tabs.TabLayout
+    <com.google.android.material_m.tabs.TabLayout
         style="@style/Widget.MaterialComponents.TabLayout.Colored"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-      <com.google.android.material.tabs.TabItem
+      <com.google.android.material_m.tabs.TabItem
           android:icon="@drawable/ic_colors_24px"
           android:text="@string/cat_tabs_label_shopping"/>
-      <com.google.android.material.tabs.TabItem
+      <com.google.android.material_m.tabs.TabItem
           android:icon="@drawable/ic_fab_24px"
           android:text="@string/cat_tabs_label_news"/>
-      <com.google.android.material.tabs.TabItem
+      <com.google.android.material_m.tabs.TabItem
           android:icon="@drawable/ic_components_24px"
           android:text="@string/cat_tabs_label_maps"/>
 
-    </com.google.android.material.tabs.TabLayout>
+    </com.google.android.material_m.tabs.TabLayout>
 
     <Button
         android:id="@+id/increment_badge_number_button"

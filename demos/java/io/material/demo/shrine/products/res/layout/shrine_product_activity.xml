@@ -28,10 +28,10 @@
       android:layout_marginStart="@dimen/shrine_grid_outer_margin"
       android:layout_marginEnd="@dimen/shrine_grid_outer_margin"
       app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
-  <com.google.android.material.appbar.AppBarLayout
+  <com.google.android.material_m.appbar.AppBarLayout
       android:layout_width="match_parent"
       android:layout_height="@dimen/shrine_tall_toolbar_height">
-    <com.google.android.material.appbar.CollapsingToolbarLayout
+    <com.google.android.material_m.appbar.CollapsingToolbarLayout
         android:id="@+id/CollapsingToolbarLayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -78,9 +78,9 @@
           android:layout_height="@dimen/shrine_toolbar_collapsed_height"
           app:layout_collapseMode="pin"
           tools:ignore="UnusedAttribute"/>
-    </com.google.android.material.appbar.CollapsingToolbarLayout>
-  </com.google.android.material.appbar.AppBarLayout>
-  <com.google.android.material.bottomnavigation.BottomNavigationView
+    </com.google.android.material_m.appbar.CollapsingToolbarLayout>
+  </com.google.android.material_m.appbar.AppBarLayout>
+  <com.google.android.material_m.bottomnavigation.BottomNavigationView
       android:id="@+id/BottomNavView"
       style="@style/Shrine.BottomNavView"
       app:menu="@menu/shrine_bottom_nav_view_menu"/>

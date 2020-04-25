@@ -34,12 +34,11 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
-import com.google.android.material.appbar.AppBarLayout;
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.google.android.material.transition.MaterialContainerTransform;
+import com.google.android.material_m.appbar.AppBarLayout;
+import com.google.android.material_m.floatingactionbutton.FloatingActionButton;
+import com.google.android.material_m.transition.MaterialContainerTransform;
 import io.material.catalog.transition.hero.MusicData.Album;
 import io.material.catalog.transition.hero.MusicData.Track;
-import io.material.catalog.transition.hero.TransitionMusicAlbumDemoFragment.TrackAdapter.TrackViewHolder;
 
 /** A Fragment that displays an album's details. */
 @TargetApi(VERSION_CODES.LOLLIPOP)

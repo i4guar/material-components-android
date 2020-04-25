@@ -23,13 +23,13 @@
   android:layout_height="match_parent"
   android:fitsSystemWindows="true">
 
-  <com.google.android.material.appbar.AppBarLayout
+  <com.google.android.material_m.appbar.AppBarLayout
     android:id="@+id/app_bar"
     android:layout_width="match_parent"
     android:layout_height="@dimen/appbar_height"
     android:fitsSystemWindows="true"
     app:expanded="true">
-    <com.google.android.material.appbar.CollapsingToolbarLayout
+    <com.google.android.material_m.appbar.CollapsingToolbarLayout
       android:id="@+id/collapsing_app_bar"
       android:layout_width="match_parent"
       android:layout_height="match_parent"
@@ -39,8 +39,8 @@
         android:layout_height="?attr/actionBarSize"
         android:layout_width="match_parent"
         app:layout_collapseMode="pin"/>
-    </com.google.android.material.appbar.CollapsingToolbarLayout>
-  </com.google.android.material.appbar.AppBarLayout>
+    </com.google.android.material_m.appbar.CollapsingToolbarLayout>
+  </com.google.android.material_m.appbar.AppBarLayout>
 
   <include layout="@layout/include_appbar_scrollview" />
 

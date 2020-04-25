@@ -37,13 +37,13 @@
         android:layout_height="wrap_content"
         android:gravity="center_vertical">
 
-      <com.google.android.material.switchmaterial.SwitchMaterial
+      <com.google.android.material_m.switchmaterial.SwitchMaterial
           android:id="@+id/switch_button_1"
           android:layout_width="wrap_content"
           android:layout_height="wrap_content"
           android:theme="@style/ThemeOverlay.SecondaryPalette.Red" />
 
-      <com.google.android.material.slider.Slider
+      <com.google.android.material_m.slider.Slider
           android:id="@+id/slider_1"
           android:layout_width="0dp"
           android:layout_height="wrap_content"
@@ -71,13 +71,13 @@
         android:layout_height="wrap_content"
         android:gravity="center_vertical">
 
-      <com.google.android.material.switchmaterial.SwitchMaterial
+      <com.google.android.material_m.switchmaterial.SwitchMaterial
           android:id="@+id/switch_button_2"
           android:layout_width="wrap_content"
           android:layout_height="wrap_content"
           android:theme="@style/ThemeOverlay.SecondaryPalette.Orange" />
 
-      <com.google.android.material.slider.Slider
+      <com.google.android.material_m.slider.Slider
           android:id="@+id/slider_2"
           android:layout_width="0dp"
           android:layout_height="wrap_content"
@@ -105,13 +105,13 @@
         android:layout_height="wrap_content"
         android:gravity="center_vertical">
 
-      <com.google.android.material.switchmaterial.SwitchMaterial
+      <com.google.android.material_m.switchmaterial.SwitchMaterial
           android:id="@+id/switch_button_3"
           android:layout_width="wrap_content"
           android:layout_height="wrap_content"
           android:theme="@style/ThemeOverlay.SecondaryPalette.Purple" />
 
-      <com.google.android.material.slider.Slider
+      <com.google.android.material_m.slider.Slider
           android:id="@+id/slider_3"
           android:layout_width="0dp"
           android:layout_height="wrap_content"

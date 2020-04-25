@@ -25,8 +25,8 @@ import android.widget.Button;
 import android.widget.SeekBar;
 import android.widget.SeekBar.OnSeekBarChangeListener;
 import android.widget.TextView;
-import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.google.android.material.bottomnavigation.LabelVisibilityMode;
+import com.google.android.material_m.bottomnavigation.BottomNavigationView;
+import com.google.android.material_m.bottomnavigation.LabelVisibilityMode;
 
 /** A fragment that displays controls for the bottom nav's label visibility. */
 public class BottomNavigationLabelVisibilityDemoFragment extends BottomNavigationDemoFragment {

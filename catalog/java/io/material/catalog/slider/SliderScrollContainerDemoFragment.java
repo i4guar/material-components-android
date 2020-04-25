@@ -24,7 +24,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
-import com.google.android.material.slider.Slider;
+import com.google.android.material_m.slider.Slider;
 import io.material.catalog.feature.DemoFragment;
 
 /**

@@ -36,7 +36,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 import androidx.cardview.widget.CardView;
 import com.android.volley.toolbox.NetworkImageView;
-import com.google.android.material.appbar.CollapsingToolbarLayout;
+import com.google.android.material_m.appbar.CollapsingToolbarLayout;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import io.material.demo.shrine.filters.FiltersActivity;

@@ -34,7 +34,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-import com.google.android.material.card.MaterialCardView;
+import com.google.android.material_m.card.MaterialCardView;
 import io.material.catalog.feature.DemoFragment;
 import java.util.Locale;
 

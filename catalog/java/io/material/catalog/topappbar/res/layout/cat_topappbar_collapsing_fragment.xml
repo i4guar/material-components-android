@@ -21,14 +21,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-  <com.google.android.material.appbar.AppBarLayout
+  <com.google.android.material_m.appbar.AppBarLayout
       android:id="@+id/appbarlayout"
       android:layout_width="match_parent"
       android:layout_height="@dimen/cat_topappbar_tall_toolbar_height"
       android:fitsSystemWindows="true"
       android:theme="@style/ThemeOverlay.Catalog.AppBarLayout">
 
-    <com.google.android.material.appbar.CollapsingToolbarLayout
+    <com.google.android.material_m.appbar.CollapsingToolbarLayout
         android:id="@+id/collapsingtoolbarlayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -47,8 +47,8 @@
           android:elevation="0dp"
           app:layout_collapseMode="pin"
           app:title="@string/cat_topappbar_collapsing_demo_toolbar_title"/>
-    </com.google.android.material.appbar.CollapsingToolbarLayout>
-  </com.google.android.material.appbar.AppBarLayout>
+    </com.google.android.material_m.appbar.CollapsingToolbarLayout>
+  </com.google.android.material_m.appbar.AppBarLayout>
 
   <androidx.core.widget.NestedScrollView
       android:layout_width="match_parent"

@@ -25,7 +25,7 @@ import androidx.appcompat.widget.SwitchCompat;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import com.google.android.material.slider.Slider;
+import com.google.android.material_m.slider.Slider;
 import io.material.catalog.feature.DemoFragment;
 
 /**

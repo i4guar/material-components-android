@@ -27,7 +27,7 @@
 
   <!-- Chips -->
 
-  <com.google.android.material.chip.Chip
+  <com.google.android.material_m.chip.Chip
       android:id="@+id/cat_chip_entry_chip"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
@@ -39,14 +39,14 @@
 
   <!-- FABs -->
 
-  <com.google.android.material.floatingactionbutton.FloatingActionButton
+  <com.google.android.material_m.floatingactionbutton.FloatingActionButton
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:layout_margin="16dp"
       android:layout_gravity="center"
       app:srcCompat="@drawable/ic_add_24px"/>
 
-  <com.google.android.material.floatingactionbutton.FloatingActionButton
+  <com.google.android.material_m.floatingactionbutton.FloatingActionButton
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:layout_margin="16dp"
@@ -56,7 +56,7 @@
 
   <!-- Cards -->
 
-  <com.google.android.material.card.MaterialCardView
+  <com.google.android.material_m.card.MaterialCardView
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
       android:layout_margin="16dp"
@@ -72,19 +72,19 @@
           android:text="@string/cat_shape_theming_card_text"
           android:textAppearance="?attr/textAppearanceBody1"/>
     </FrameLayout>
-  </com.google.android.material.card.MaterialCardView>
+  </com.google.android.material_m.card.MaterialCardView>
 
   <!-- Text fields -->
 
-  <com.google.android.material.textfield.TextInputLayout
+  <com.google.android.material_m.textfield.TextInputLayout
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
       android:layout_margin="8dp"
       android:hint="@string/cat_shape_theming_textfield_hint_outlined">
-    <com.google.android.material.textfield.TextInputEditText
+    <com.google.android.material_m.textfield.TextInputEditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
-  </com.google.android.material.textfield.TextInputLayout>
+  </com.google.android.material_m.textfield.TextInputLayout>
 
   <!-- Buttons -->
 

@@ -24,7 +24,7 @@
     android:clipChildren="false"
     android:clipToPadding="false">
 
-  <com.google.android.material.card.MaterialCardView
+  <com.google.android.material_m.card.MaterialCardView
       android:id="@+id/card_content_layout"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
@@ -40,6 +40,6 @@
         android:text="@string/cat_card_swipe_to_dismiss"
         android:textAppearance="?attr/textAppearanceBody1"/>
 
-  </com.google.android.material.card.MaterialCardView>
+  </com.google.android.material_m.card.MaterialCardView>
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

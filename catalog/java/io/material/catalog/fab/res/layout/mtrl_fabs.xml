@@ -36,7 +36,7 @@
       android:layout_marginRight="24dp"
       android:layout_gravity="center"
       android:text="@string/regular_fab_label"/>
-  <com.google.android.material.floatingactionbutton.FloatingActionButton
+  <com.google.android.material_m.floatingactionbutton.FloatingActionButton
       style="@style/Widget.MaterialComponents.FloatingActionButton"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
@@ -44,7 +44,7 @@
       android:layout_gravity="center"
       android:contentDescription="@string/cat_regular_fab_content_desc"
       app:srcCompat="@drawable/ic_add_24px"/>
-  <com.google.android.material.floatingactionbutton.FloatingActionButton
+  <com.google.android.material_m.floatingactionbutton.FloatingActionButton
       style="@style/Widget.MaterialComponents.FloatingActionButton"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
@@ -60,7 +60,7 @@
       android:layout_marginRight="24dp"
       android:layout_gravity="center"
       android:text="@string/legacy_fab_label"/>
-  <com.google.android.material.floatingactionbutton.FloatingActionButton
+  <com.google.android.material_m.floatingactionbutton.FloatingActionButton
       style="@style/Widget.Design.FloatingActionButton"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
@@ -68,7 +68,7 @@
       android:layout_gravity="center"
       android:contentDescription="@string/cat_legacy_fab_content_desc"
       app:srcCompat="@drawable/ic_add_24px"/>
-  <com.google.android.material.floatingactionbutton.FloatingActionButton
+  <com.google.android.material_m.floatingactionbutton.FloatingActionButton
       style="@style/Widget.Design.FloatingActionButton"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"

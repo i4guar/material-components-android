@@ -21,7 +21,7 @@ import io.material.catalog.R;
 import android.graphics.PorterDuff.Mode;
 import android.graphics.drawable.Drawable;
 import android.widget.EditText;
-import com.google.android.material.textfield.TextInputLayout;
+import com.google.android.material_m.textfield.TextInputLayout;
 
 /** A fragment that displays the legacy text field demos with controls for the Catalog app. */
 public class TextFieldLegacyDemoFragment extends TextFieldControllableDemoFragment {
