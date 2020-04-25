@@ -749,7 +749,7 @@ public class MaterialButtonToggleGroup extends LinearLayout {
    *     MaterialButtonToggleGroup}
    */
   private void setupButtonChild(@NonNull MaterialButton buttonChild) {
-    buttonChild.setMaxLines(1);
+    buttonChild.setMaxLines(2);
     buttonChild.setEllipsize(TruncateAt.END);
     buttonChild.setCheckable(true);
 
