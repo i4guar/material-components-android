@@ -16,7 +16,7 @@
 
 package com.google.android.material_m.textfield;
 
-import com.google.android.material.R;
+import com.google.android.material_m.R;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.content.res.AppCompatResources;

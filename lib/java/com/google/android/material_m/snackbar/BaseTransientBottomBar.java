@@ -16,7 +16,7 @@
 
 package com.google.android.material_m.snackbar;
 
-import com.google.android.material.R;
+import com.google.android.material_m.R;
 
 import static androidx.annotation.RestrictTo.Scope.LIBRARY_GROUP;
 import static com.google.android.material_m.animation.AnimationUtils.FAST_OUT_SLOW_IN_INTERPOLATOR;

@@ -16,7 +16,7 @@
 
 package com.google.android.material_m.tabs;
 
-import com.google.android.material.R;
+import com.google.android.material_m.R;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;

@@ -15,7 +15,7 @@
  */
 package com.google.android.material_m.datepicker;
 
-import com.google.android.material.R;
+import com.google.android.material_m.R;
 
 import android.annotation.TargetApi;
 import android.content.res.Resources;

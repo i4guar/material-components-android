@@ -16,7 +16,7 @@
 
 package com.google.android.material_m.shadow;
 
-import com.google.android.material.R;
+import com.google.android.material_m.R;
 import com.google.android.material_m.shape.MaterialShapeDrawable;
 
 import android.content.Context;

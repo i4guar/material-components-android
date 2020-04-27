@@ -16,7 +16,7 @@
 
 package com.google.android.material_m.floatingactionbutton;
 
-import com.google.android.material.R;
+import com.google.android.material_m.R;
 
 import static androidx.core.util.Preconditions.checkNotNull;
 

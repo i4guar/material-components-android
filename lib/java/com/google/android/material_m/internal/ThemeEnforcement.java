@@ -16,7 +16,7 @@
 
 package com.google.android.material_m.internal;
 
-import com.google.android.material.R;
+import com.google.android.material_m.R;
 import com.google.android.material_m.resources.MaterialResources;
 
 import static androidx.annotation.RestrictTo.Scope.LIBRARY_GROUP;

@@ -16,7 +16,7 @@
 
 package com.google.android.material_m.appbar;
 
-import com.google.android.material.R;
+import com.google.android.material_m.R;
 
 import android.animation.AnimatorInflater;
 import android.animation.ObjectAnimator;

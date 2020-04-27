@@ -16,7 +16,7 @@
 
 package com.google.android.material_m.transformation;
 
-import com.google.android.material.R;
+import com.google.android.material_m.R;
 
 import static com.google.android.material_m.animation.AnimationUtils.lerp;
 

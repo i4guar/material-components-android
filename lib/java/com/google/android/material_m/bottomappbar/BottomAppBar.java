@@ -16,7 +16,7 @@
 
 package com.google.android.material_m.bottomappbar;
 
-import com.google.android.material.R;
+import com.google.android.material_m.R;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;

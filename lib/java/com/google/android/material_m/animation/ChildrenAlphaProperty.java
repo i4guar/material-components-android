@@ -15,7 +15,7 @@
  */
 package com.google.android.material_m.animation;
 
-import com.google.android.material.R;
+import com.google.android.material_m.R;
 
 import androidx.annotation.NonNull;
 import android.util.Property;

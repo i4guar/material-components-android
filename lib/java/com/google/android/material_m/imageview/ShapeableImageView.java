@@ -16,7 +16,7 @@
 
 package com.google.android.material_m.imageview;
 
-import com.google.android.material.R;
+import com.google.android.material_m.R;
 
 import android.annotation.TargetApi;
 import android.content.Context;

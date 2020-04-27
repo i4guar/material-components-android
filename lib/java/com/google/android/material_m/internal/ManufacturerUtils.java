@@ -15,7 +15,7 @@
  */
 package com.google.android.material_m.internal;
 
-import com.google.android.material.R;
+import com.google.android.material_m.R;
 
 import android.os.Build;
 import androidx.annotation.RestrictTo;

@@ -16,7 +16,7 @@
 
 package com.google.android.material_m.appbar;
 
-import com.google.android.material.R;
+import com.google.android.material_m.R;
 
 import static androidx.annotation.RestrictTo.Scope.LIBRARY_GROUP;
 import static androidx.core.view.accessibility.AccessibilityNodeInfoCompat.AccessibilityActionCompat.ACTION_SCROLL_BACKWARD;

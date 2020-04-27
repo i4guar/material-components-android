@@ -16,7 +16,7 @@
 
 package com.google.android.material_m.bottomsheet;
 
-import com.google.android.material.R;
+import com.google.android.material_m.R;
 
 import android.content.Context;
 import android.content.res.TypedArray;

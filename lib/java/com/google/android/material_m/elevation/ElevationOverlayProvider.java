@@ -16,7 +16,7 @@
 
 package com.google.android.material_m.elevation;
 
-import com.google.android.material.R;
+import com.google.android.material_m.R;
 
 import android.content.Context;
 import android.graphics.Color;

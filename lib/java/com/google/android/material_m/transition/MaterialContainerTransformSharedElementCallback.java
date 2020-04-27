@@ -16,7 +16,7 @@
 
 package com.google.android.material_m.transition;
 
-import com.google.android.material.R;
+import com.google.android.material_m.R;
 
 import android.app.Activity;
 import android.app.SharedElementCallback;

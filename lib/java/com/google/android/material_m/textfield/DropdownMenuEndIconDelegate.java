@@ -16,7 +16,7 @@
 
 package com.google.android.material_m.textfield;
 
-import com.google.android.material.R;
+import com.google.android.material_m.R;
 
 import static androidx.core.view.ViewCompat.IMPORTANT_FOR_ACCESSIBILITY_NO;
 import static android.view.accessibility.AccessibilityEvent.TYPE_VIEW_CLICKED;

@@ -16,7 +16,7 @@
 
 package com.google.android.material_m.textfield;
 
-import com.google.android.material.R;
+import com.google.android.material_m.R;
 
 import static android.view.View.TRANSLATION_Y;
 import static android.view.View.VISIBLE;
