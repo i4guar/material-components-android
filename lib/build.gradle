@@ -30,57 +30,57 @@ dependencies {
 }
 
 def srcDirs = [
-  'com/google/android/material/animation',
-  'com/google/android/material/appbar',
-  'com/google/android/material/badge',
-  'com/google/android/material/behavior',
-  'com/google/android/material/bottomappbar',
-  'com/google/android/material/bottomnavigation',
-  'com/google/android/material/bottomsheet',
-  'com/google/android/material/button',
-  'com/google/android/material/canvas',
-  'com/google/android/material/card',
-  'com/google/android/material/checkbox',
-  'com/google/android/material/chip',
-  'com/google/android/material/circularreveal',
-  'com/google/android/material/circularreveal/cardview',
-  'com/google/android/material/circularreveal/coordinatorlayout',
-  'com/google/android/material/color',
-  'com/google/android/material/datepicker',
-  'com/google/android/material/dialog',
-  'com/google/android/material/drawable',
-  'com/google/android/material/elevation',
-  'com/google/android/material/expandable',
-  'com/google/android/material/floatingactionbutton',
-  'com/google/android/material/imageview',
-  'com/google/android/material/internal',
-  'com/google/android/material/math',
-  'com/google/android/material/menu',
-  'com/google/android/material/navigation',
-  'com/google/android/material/progressindicator',
-  'com/google/android/material/radiobutton',
-  'com/google/android/material/resources',
-  'com/google/android/material/ripple',
-  'com/google/android/material/shape',
-  'com/google/android/material/shadow',
-  'com/google/android/material/slider',
-  'com/google/android/material/snackbar',
-  'com/google/android/material/stateful',
-  'com/google/android/material/switchmaterial',
-  'com/google/android/material/tabs',
-  'com/google/android/material/textfield',
-  'com/google/android/material/textview',
-  'com/google/android/material/theme',
-  'com/google/android/material/theme/overlay',
-  'com/google/android/material/tooltip',
-  'com/google/android/material/transition',
-  'com/google/android/material/transformation',
-  'com/google/android/material/typography',
+  'com/google/android/material_m/animation',
+  'com/google/android/material_m/appbar',
+  'com/google/android/material_m/badge',
+  'com/google/android/material_m/behavior',
+  'com/google/android/material_m/bottomappbar',
+  'com/google/android/material_m/bottomnavigation',
+  'com/google/android/material_m/bottomsheet',
+  'com/google/android/material_m/button',
+  'com/google/android/material_m/canvas',
+  'com/google/android/material_m/card',
+  'com/google/android/material_m/checkbox',
+  'com/google/android/material_m/chip',
+  'com/google/android/material_m/circularreveal',
+  'com/google/android/material_m/circularreveal/cardview',
+  'com/google/android/material_m/circularreveal/coordinatorlayout',
+  'com/google/android/material_m/color',
+  'com/google/android/material_m/datepicker',
+  'com/google/android/material_m/dialog',
+  'com/google/android/material_m/drawable',
+  'com/google/android/material_m/elevation',
+  'com/google/android/material_m/expandable',
+  'com/google/android/material_m/floatingactionbutton',
+  'com/google/android/material_m/imageview',
+  'com/google/android/material_m/internal',
+  'com/google/android/material_m/math',
+  'com/google/android/material_m/menu',
+  'com/google/android/material_m/navigation',
+  'com/google/android/material_m/progressindicator',
+  'com/google/android/material_m/radiobutton',
+  'com/google/android/material_m/resources',
+  'com/google/android/material_m/ripple',
+  'com/google/android/material_m/shape',
+  'com/google/android/material_m/shadow',
+  'com/google/android/material_m/slider',
+  'com/google/android/material_m/snackbar',
+  'com/google/android/material_m/stateful',
+  'com/google/android/material_m/switchmaterial',
+  'com/google/android/material_m/tabs',
+  'com/google/android/material_m/textfield',
+  'com/google/android/material_m/textview',
+  'com/google/android/material_m/theme',
+  'com/google/android/material_m/theme/overlay',
+  'com/google/android/material_m/tooltip',
+  'com/google/android/material_m/transition',
+  'com/google/android/material_m/transformation',
+  'com/google/android/material_m/typography',
 ]
 
 android {
   sourceSets {
-    main.manifest.srcFile 'java/com/google/android/material/AndroidManifest.xml'
+    main.manifest.srcFile 'java/com/google/android/material_m/AndroidManifest.xml'
     main.java.srcDir 'java'
     main.java.includes = srcDirs.collect { it + '/**/*.java' }
     main.java.excludes = [
@@ -121,7 +121,7 @@ task generateJavadocs(type: Javadoc) {
     options.addStringOption("hdf", "dac")
     options.addBooleanOption("devsite", true)
     options.addBooleanOption("yamlV2", true)
-    options.addStringOption("dac_libraryroot", "com/google/android/material")
+    options.addStringOption("dac_libraryroot", "com/google/android/material_m")
     options.addStringOption("dac_dataname", "MATERIAL_DATA")
   }
 
@@ -199,7 +199,7 @@ task generateJdiffReport(type: Javadoc) {
   }
 }
 
-def R_CLASS_PATH = "build/generated/not_namespaced_r_class_sources/releaseUnitTest/processReleaseUnitTestResources/r/com/google/android/material/R.java"
+def R_CLASS_PATH = "build/generated/not_namespaced_r_class_sources/releaseUnitTest/processReleaseUnitTestResources/r/com/google/android/material_m/R.java"
 afterEvaluate {
   [generateJavadocs, generateApiXml].forEach { task ->
     task.dependsOn(':lib:processReleaseUnitTestResources')
